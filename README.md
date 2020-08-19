@@ -1,1 +1,2 @@
 # WayVDiscordBot
+we tried
